@@ -16,7 +16,8 @@ Built with ❤️ in Rust.
 Add RustyPiano to your project via Cargo:
 
 ```bash
-cargo install rusty_piano
+cargo install RustyPiano
+RustyPiano
 ```
 
 or clone and run directly
