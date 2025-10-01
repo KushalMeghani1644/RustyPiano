@@ -2,8 +2,6 @@
 
 RustyPiano is a simple terminal piano written in Rust. Press keys `a`, `s`, `d`, `f`, `g`, `h`, `j` to play the notes `sa re ga ...`. It's a fun little way to experiment with audio in Rust.
 
-Built with ❤️ in Rust.
-
 ## Features
 
 - Plays simple `sa re ga` notes using keyboard input
