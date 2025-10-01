@@ -48,6 +48,6 @@ RustyPiano - Press keys a,s,d,f,g,h,j to play notes, q to quit
 
 ## License
 
-This project is licensed under the GNU GPL v3 - see the [LICENSE](RustyPiano/LICENSE) for details.
+This project is licensed under the GNU GPL v3 - see the [LICENSE](/LICENSE) for details.
 
 ### Built with ♥️ in Rust
